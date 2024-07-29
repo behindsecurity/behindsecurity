@@ -5,6 +5,12 @@ I'm 20 years old, undergraduate living in Brussels. I work in the offensive secu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=behindsecurity&color=blue)
 
+## Find Me At
+
+[ ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/behindsecurity.png) ](https://tryhackme.com/p/behindsecurity)
+
+[ ![behindsecurity](https://www.hackthebox.eu/badge/image/600542)](https://app.hackthebox.com/profile/600542)
+
 ## Skills
 
 ### Coding / Scripting
@@ -92,8 +98,6 @@ From time to time, I do CTF writeups on my personal website to practise my repor
 [ ![MyAnimeList](https://a11ybadges.com/badge?logo=myanimelist) ](https://myanimelist.net/profile/the_hated_one)
 [ ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ](https://www.duolingo.com/profile/the_hated_one)
 
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ovua2qvruvv9fbi6f9aeuzgce)
 
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
