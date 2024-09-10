@@ -99,6 +99,7 @@ From time to time, I do CTF writeups on my personal website to practise my repor
 [ ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ](https://www.duolingo.com/profile/the_hated_one)
 [ ![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white) ](https://letterboxd.com/the_hated_one/)
 [ ![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white) ](https://open.spotify.com/user/ovua2qvruvv9fbi6f9aeuzgce)
+[ ![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white) ](https://www.chess.com/member/behindyk1)
 
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
