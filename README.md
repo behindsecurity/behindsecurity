@@ -90,13 +90,14 @@ From time to time, I do CTF writeups on my personal website to practise my repor
 
 ## Contact Me
 [ ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ](https://infomundi.net/team)
-
+![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) @behindsecurity:matrix.org
 
 ## Personal Touch
 
 [ ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213) ](https://www.goodreads.com/user/show/176254580-guilherme-alves)
 [ ![MyAnimeList](https://a11ybadges.com/badge?logo=myanimelist) ](https://myanimelist.net/profile/the_hated_one)
 [ ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ](https://www.duolingo.com/profile/the_hated_one)
+[ ![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white) ](https://letterboxd.com/the_hated_one/)
 
 
 ## Contributions
