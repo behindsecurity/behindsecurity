@@ -69,28 +69,30 @@ I'm 20 years old, undergraduate living in Brussels. I work in the offensive secu
 ## Projects
 
 ### Fullstack
-<a href="https://infomundi.net/"><img src="https://infomundi.net/static/img/logos/logo-wide-dark-resized.webp" alt="Infomundi" width="300" height="120"></a><br>
+<a href="https://infomundi.net/" target="_blank"><img src="https://infomundi.net/static/img/logos/logo-wide-dark-resized.webp" alt="Infomundi" width="300" height="120"></a><br>
 
-I code fullstack at Infomundi, a platform dedicated to providing users with reliable and detailed insights into countries worldwide, covering a broad range of topics from geopolitics to economics. Our content is constantly updated to keep our community informed and engaged. Recognizing the value of information, Infomundi is designed to be accessible and user-friendly, supporting discussions and fostering a deeper understanding of the world around us.
+I code fullstack at [Infomundi](https://infomundi.net/), a platform dedicated to providing users with reliable and detailed insights into countries worldwide, covering a broad range of topics from geopolitics to economics. Our content is constantly updated to keep our community informed and engaged. Recognizing the value of information, Infomundi is designed to be accessible and user-friendly, supporting discussions and fostering a deeper understanding of the world around us.
 
 ### Writeups / Articles
-<a href="https://behindsecurity.com/"><img src="https://behindsecurity.com/wp-content/uploads/2023/04/behind-security.png.webp" alt="Infomundi" width="180" height="60"></a><br>
+<a href="https://behindsecurity.com/" target="_blank"><img src="https://behindsecurity.com/wp-content/uploads/2023/04/behind-security.png.webp" alt="Infomundi" width="180" height="60"></a><br>
 
-From time to time, I do CTF writeups on my personal website to practise my reporting skills.
+From time to time, I do CTF writeups on my [personal website](https://behindsecurity.com/) to practise my reporting skills. I pretend to write articles some point in the future as well.
 
 
 ## Education
 - **[FIAP](https://www.fiap.com.br/)**: Bachelor of Science, Cyber Defense (Grade 2/4)
 
 
-## Achievements
+## Languages
+| Native | CEFR C2 | CEFR A2 (currently learning) |
+| :----------: | :----------: | :----------: |
+| Portuguese | English | German |
+
+
+## Industry Certifications
 - [eJPT certified](https://verified.elearnsecurity.com/certificates/e7b04d48-3a13-40e8-b66d-96ee2147f284)
 - [HackTheBox CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/) coming soon
 
-
-## Contact Me
-[ ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ](https://infomundi.net/team)
-![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) @behindsecurity:matrix.org
 
 ## Personal Touch
 
@@ -108,3 +110,6 @@ From time to time, I do CTF writeups on my personal website to practise my repor
 ## Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat!
 
+| [ ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ](https://infomundi.net/team) | ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) |
+| :----------: | :----------: |
+| Click on the icon | @behindsecurity:matrix.org |
