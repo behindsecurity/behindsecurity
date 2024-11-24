@@ -71,12 +71,12 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 
 ## Projects
 
-<a href="https://infomundi.net/" target="_blank"><img src="https://infomundi.net/static/img/logos/logo-wide-dark-resized.webp" alt="Infomundi" width="300" height="120"></a><br>
+<a href="https://infomundi.net/" target="_blank"><img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/infomundi-nobg.webp" alt="Infomundi" style="width: 50%; height: auto"></a><br>
 
 I code fullstack at [Infomundi](https://infomundi.net/), a platform dedicated to providing users with reliable and detailed insights into countries worldwide, covering a broad range of topics from geopolitics to economics. Here I deal with linux systems, dockerized environments, storage services such as Cloudflare S2, WAFs such as modsecurity, Python and its frameworks such as Flask, Redis for caching and rate limiting configurations, initially Apache but now NGINX for the web server, MySQL and PostgreSQL for the database, web scraping to fetch stories from various sources, Bootstrap framework, HTML, CSS and vanilla javascript for the front-end.
 
 
-<a href="https://behindsecurity.com/" target="_blank"><img src="https://behindsecurity.com/wp-content/uploads/2023/04/behind-security.png.webp" alt="Infomundi" width="180" height="60"></a><br>
+<a href="https://behindsecurity.com/" target="_blank"><img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/behindsecurity-nobg.webp" alt="BehindSecurity" style="width: 50%; height: auto"></a><br>
 
 From time to time, I do CTF writeups on my [personal website](https://behindsecurity.com/) to practise my reporting skills. I pretend to write articles some point in the future as well.
 
