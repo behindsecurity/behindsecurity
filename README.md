@@ -48,16 +48,7 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 
-### Other
-[![Discord bot development](https://img.shields.io/badge/discord-bot_developent-blue)](https://discordpy.readthedocs.io/en/stable/)
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Operating Systems
+### Operating System
 - Shoutout to [Whonix OS](https://www.whonix.org/)
 - Escape from the [botnet](https://www.microsoft.com/en-us/windows/?r=1)
 
@@ -68,6 +59,15 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
+### Other
+[![Discord Bot Developer](https://img.shields.io/badge/Discord%20Bot%20Developer-blue)](https://discordpy.readthedocs.io/en/stable/)
+[![Exploit Developer](https://img.shields.io/badge/Exploit%20Developer-red)](https://vulners.com/exploitdb/EDB-ID:50963)
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
 
@@ -106,6 +106,7 @@ From time to time, I do CTF writeups on my [personal website](https://behindsecu
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/the_hated_one/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ovua2qvruvv9fbi6f9aeuzgce)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindyk1)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/the_hated_one)
 
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
@@ -114,6 +115,6 @@ From time to time, I do CTF writeups on my [personal website](https://behindsecu
 ## Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat!
 
-| [ ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ](https://infomundi.net/team) | ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) |
-| :----------: | :----------: |
-| Click on the icon | @behindsecurity:matrix.org |
+| [ ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ](https://infomundi.net/team) | ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) |
+| :----------: | :----------: | :------: |
+| Click on the icon | @behindsecurity:matrix.org | @behindsecurity |
