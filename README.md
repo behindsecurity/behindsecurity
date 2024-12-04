@@ -106,7 +106,7 @@ From time to time, I do CTF writeups on my [personal website](https://behindsecu
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/the_hated_one/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ovua2qvruvv9fbi6f9aeuzgce)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindyk1)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/the_hated_one)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198316454564)
 
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
