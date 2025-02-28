@@ -3,9 +3,11 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 
 ![Profile Views](https://komarev.com/ghpvc/?username=behindsecurity&color=blue)
 
-## Find Me At
+## Platforms
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/behindsecurity.png)](https://tryhackme.com/p/behindsecurity) [![behindsecurity](https://www.hackthebox.eu/badge/image/600542)](https://app.hackthebox.com/profile/600542)
+| TryHackMe | HackTheBox | 
+| :----: | :----: |
+| [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/behindsecurity.png)](https://tryhackme.com/p/behindsecurity) | [![behindsecurity](https://www.hackthebox.eu/badge/image/600542)](https://app.hackthebox.com/profile/600542) |
 
 ## Skills
 
@@ -73,30 +75,29 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 
 <a href="https://infomundi.net/" target="_blank"><img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/infomundi-nobg.webp" alt="Infomundi" style="width: 50%; height: auto"></a><br>
 
-I code fullstack at [Infomundi](https://infomundi.net/), a platform dedicated to providing users with reliable and detailed insights into countries worldwide, covering a broad range of topics from geopolitics to economics. Here I deal with linux systems, dockerized environments, storage services such as Cloudflare S2, WAFs such as modsecurity, Python and its frameworks such as Flask, Redis for caching and rate limiting configurations, initially Apache but now NGINX for the web server, MySQL and PostgreSQL for the database, web scraping to fetch stories from various sources, Bootstrap framework, HTML, CSS and vanilla javascript for the front-end.
-
+I'm CTO at [Infomundi](https://infomundi.net/), where I code full-stack and perform syadmin activities. The back-end was built using Python, while the front-end was made with Bootstrap and Vanilla JS/CSS. I actively maintain the site and plan to make it open-source in a near future.
 
 <a href="https://behindsecurity.com/" target="_blank"><img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/behindsecurity-nobg.webp" alt="BehindSecurity" style="width: 50%; height: auto"></a><br>
 
-From time to time, I do CTF writeups on my [personal website](https://behindsecurity.com/) to practise my reporting skills. I pretend to write articles some point in the future as well.
+I write articles and publish CTF writeups on my [personal website](https://behindsecurity.com/).
 
 
 ## Education
 
 | Institution | Degree | Expected Graduation Date |
 | :--------: | :--------: | :--------:
-| [FIAP](https://www.fiap.com.br/) | Bachelor of Science, Cyber Defense | November, 2025 |
+| [FIAP](https://www.fiap.com.br/) | Bachelor of Science, Cyber Defense | Feb, 2025 |
 
 ## Languages
-| Native | CEFR C2 | CEFR A2 (currently learning) |
-| :--------: | :-----: | :----: |
-| Portuguese | English | German |
+| Native | CEFR C2 | 
+| :--------: | :-----: |
+| Portuguese | English |
 
 
 ## Certifications
-[![eJPT certified](https://img.shields.io/badge/eJPT-certified-green)](https://verified.elearnsecurity.com/certificates/e7b04d48-3a13-40e8-b66d-96ee2147f284)
+![eJPTv1 certified](https://img.shields.io/badge/eJPT-certified-green)
+![HTB CPTS certified](https://img.shields.io/badge/HTB_CPTS-certified-green)
 [![CRTO](https://img.shields.io/badge/CRTO-coming_soon-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
-[![HackTheBox CPTS](https://img.shields.io/badge/HackTheBox_CPTS-coming_soon-yellow)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/)
 
 ## Personal Touch
 
@@ -104,7 +105,6 @@ From time to time, I do CTF writeups on my [personal website](https://behindsecu
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/176254580-guilherme-alves)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/the_hated_one)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/the_hated_one/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ovua2qvruvv9fbi6f9aeuzgce)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindyk1)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198316454564)
 
@@ -115,6 +115,6 @@ From time to time, I do CTF writeups on my [personal website](https://behindsecu
 ## Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat!
 
-| [ ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) ](https://infomundi.net/team) | ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) |
+| Mail | Matrix | Discord |
 | :----------: | :----------: | :------: |
-| Click on the icon | @behindsecurity:matrix.org | @behindsecurity |
+| gui[dot]alves[at]behindsecurity[dot]com | @behindsecurity:matrix.org | @behindsecurity |
