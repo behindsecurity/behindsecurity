@@ -95,9 +95,9 @@ I write articles and publish CTF writeups on my [personal website](https://behin
 
 
 ## Certifications
-![eJPTv1 certified](https://img.shields.io/badge/eJPT-certified-green)
+![eJPTv1 certified](https://img.shields.io/badge/eJPTv1-certified-green)
 ![HTB CPTS certified](https://img.shields.io/badge/HTB_CPTS-certified-green)
-[![CRTO](https://img.shields.io/badge/CRTO-coming_soon-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
+[![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
 
 ## Personal Touch
 
