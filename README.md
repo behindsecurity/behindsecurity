@@ -86,7 +86,7 @@ I write articles and publish CTF writeups on my [personal website](https://behin
 
 | Institution | Degree | Expected Graduation Date |
 | :--------: | :--------: | :--------:
-| [FIAP](https://www.fiap.com.br/) | Bachelor of Science, Cyber Defense | Feb, 2026 |
+| [FIAP](https://www.linkedin.com/school/fiap/posts/) | Bachelor of Science, Cyber Defense | Feb, 2026 |
 
 ## Languages
 | Native | CEFR C2 | 
