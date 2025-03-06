@@ -98,6 +98,10 @@ I write articles and publish CTF writeups on my [personal website](https://behin
 ![eJPTv1 certified](https://img.shields.io/badge/eJPTv1-certified-green)
 ![HTB CPTS certified](https://img.shields.io/badge/HTB_CPTS-certified-green)
 [![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
+[![OSCP](https://img.shields.io/badge/OSCP-planned-red)]([https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://www.offsec.com/courses/pen-200/))
+
+## Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
 
 ## Personal Touch
 
@@ -108,13 +112,9 @@ I write articles and publish CTF writeups on my [personal website](https://behin
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindyk1)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198316454564)
 
-## Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
-
-
 ## Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat!
 
 | Mail | Matrix | Discord |
 | :----------: | :----------: | :------: |
-| gui[dot]alves[at]behindsecurity[dot]com | @behindsecurity:matrix.org | @behindsecurity |
+| gui[dot]alves[at]behindsecurity[dot]com ([pgp key](https://behindsecurity.com/wp-content/uploads/2025/03/Guilherme-Alves-gui.alves@behindsecurity.com-0x0EDE23B4DB2B1E70-public.asc)) | @behindsecurity:matrix.org | @behindsecurity |
