@@ -9,12 +9,18 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 | :----: | :----: |
 | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/behindsecurity.png)](https://tryhackme.com/p/behindsecurity) | [![behindsecurity](https://www.hackthebox.eu/badge/image/600542)](https://app.hackthebox.com/profile/600542) |
 
+## Certifications
+<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/htb-cpts.webp" alt="HTB CPTS" style="width: 500px; height: 353px"> <img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/eJPT-cert-min.png" alt="eJPTv1" style="width: 500px; height: 353px">
+
+[![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
+[![OSCP](https://img.shields.io/badge/OSCP-planned_(Jan_2026)-red)]([https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://www.offsec.com/courses/pen-200/))
+
+
 ## Skills
 
 ### Coding / Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
@@ -65,11 +71,12 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 [![Discord Bot Developer](https://img.shields.io/badge/Discord%20Bot%20Developer-blue)](https://discordpy.readthedocs.io/en/stable/)
 [![Exploit Developer](https://img.shields.io/badge/Exploit%20Developer-red)](https://vulners.com/exploitdb/EDB-ID:50963)
 
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## Projects
 
@@ -93,13 +100,6 @@ I write articles and publish CTF writeups on my [personal website](https://behin
 | :--------: | :-----: |
 | Portuguese | English |
 
-
-## Certifications
-![eJPTv1 certified](https://img.shields.io/badge/eJPTv1-certified-green)
-![HTB CPTS certified](https://img.shields.io/badge/HTB_CPTS-certified-green)
-[![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
-[![OSCP](https://img.shields.io/badge/OSCP-planned-red)]([https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://www.offsec.com/courses/pen-200/))
-
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
 
@@ -117,4 +117,4 @@ Feel free to reach out for collaborations or just a friendly chat!
 
 | Mail | Matrix | Discord |
 | :----------: | :----------: | :------: |
-| gui[dot]alves[at]behindsecurity[dot]com ([pgp key](https://behindsecurity.com/wp-content/uploads/2025/03/Guilherme-Alves-gui.alves@behindsecurity.com-0x0EDE23B4DB2B1E70-public.asc)) | @behindsecurity:matrix.org | @behindsecurity |
+| gui(dot)alves(at)behindsecurity(dot)com ([pgp key](https://behindsecurity.com/wp-content/uploads/2025/03/Guilherme-Alves-gui.alves@behindsecurity.com-0x0EDE23B4DB2B1E70-public.asc)) | @behindsecurity:matrix.org | @behindsecurity |
