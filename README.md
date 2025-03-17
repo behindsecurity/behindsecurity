@@ -3,7 +3,7 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 
 ![Profile Views](https://komarev.com/ghpvc/?username=behindsecurity&color=blue)
 
-## Platforms
+## Hacking Platforms
 
 | TryHackMe | HackTheBox | 
 | :----: | :----: |
@@ -12,8 +12,7 @@ I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensiv
 ## Certifications
 <img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/htb-cpts.webp" alt="HTB CPTS" style="width: 500px; height: 353px"> <img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/eJPT-cert-min.png" alt="eJPTv1" style="width: 500px; height: 353px">
 
-[![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
-[![OSCP](https://img.shields.io/badge/OSCP-planned_(Jan_2026)-red)]([https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://www.offsec.com/courses/pen-200/))
+[![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops) [![OSCP](https://img.shields.io/badge/OSCP-planned_(Jan_2026)-red)]([https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://www.offsec.com/courses/pen-200/))
 
 
 ## Skills
@@ -115,6 +114,6 @@ I write articles and publish CTF writeups on my [personal website](https://behin
 ## Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat!
 
-| Mail | Matrix | Discord |
-| :----------: | :----------: | :------: |
-| gui(dot)alves(at)behindsecurity(dot)com ([pgp key](https://behindsecurity.com/wp-content/uploads/2025/03/Guilherme-Alves-gui.alves@behindsecurity.com-0x0EDE23B4DB2B1E70-public.asc)) | @behindsecurity:matrix.org | @behindsecurity |
+| Mail | Matrix | Discord | LinkedIn |
+| :----------: | :----------: | :------: | :-----: |
+| gui(dot)alves(at)behindsecurity(dot)com ([pgp key](https://behindsecurity.com/wp-content/uploads/2025/03/Guilherme-Alves-gui.alves@behindsecurity.com-0x0EDE23B4DB2B1E70-public.asc)) | @behindsecurity:matrix.org | @behindsecurity | [Guilherme Alves](https://www.linkedin.com/in/guilherme-alves-cybersecurity/) |
