@@ -1,119 +1,100 @@
-## Hello!
-I'm 20 years old, undergraduate living in Portugal. I'm passioned about offensive security and software development.
+My name's Guilherme, and I'm a pentester. My main focus is on breaking stuff, but I also build web applications, tools, and, sometimes, discord bots and other things too—because you need to know how something works to know how to break it.
 
-![Profile Views](https://komarev.com/ghpvc/?username=behindsecurity&color=blue)
+![Views](https://komarev.com/ghpvc/?username=behindsecurity&color=blue)
 
-## Hacking Platforms
+I also love sharing knowledge through [articles](https://behindsecurity.com/categories/articles/) and [writeups](https://behindsecurity.com/categories/writeups/).
+
+
+## CTFs & Certifications
+
+> "Practice like you're in prod."
+> CTFs are my lab; certs prove the habits stick.
 
 | TryHackMe | HackTheBox | 
 | :----: | :----: |
 | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/behindsecurity.png)](https://tryhackme.com/p/behindsecurity) | [![behindsecurity](https://www.hackthebox.eu/badge/image/600542)](https://app.hackthebox.com/profile/600542) |
 
-## Certifications
-<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/htb-cpts.webp" alt="HTB CPTS" style="width: 500px; height: 353px"> <img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/eJPT-cert-min.png" alt="eJPTv1" style="width: 500px; height: 353px">
 
-[![CRTO](https://img.shields.io/badge/CRTO-in_progress-yellow)](https://training.zeropointsecurity.co.uk/courses/red-team-ops) [![OSCP](https://img.shields.io/badge/OSCP-planned_(Jan_2026)-red)]([https://training.zeropointsecurity.co.uk/courses/red-team-ops](https://www.offsec.com/courses/pen-200/))
+### Highlights
 
+- 🎖 **HTB CPTS (Certified Penetration Testing Specialist)**: Completed 100% of the practical lab that simulates a real world engagement (internal network with more than 5 machines), plus a comprehensive 215‑page pentest report, and thus obtaining a passing score on the CPTS exam
 
-## Skills
-
-### Coding / Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<div align=center>
+<img src="https://behindsecurity.com/storage/htb-cpts.webp" alt="HTB CPTS Certification" style="height: auto; width: 50%;"></img>
+</div>
 
 
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **HTB Dante ProLab**: Completed 100% of Dante, a beginner-friendly penetration testing lab simulating real-world environments with both Linux and Windows systems. Developed hands-on skills in enumeration, exploit development (including buffer overflows), web application attacks, privilege escalation, and lateral movement. The lab emphasized persistence, situational awareness, and practical use of tools like Metasploit in network penetration testing workflows.
 
 
-### Web
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align=center>
+<img src="https://behindsecurity.com/storage/dante.webp" alt="HTB Dante ProLab Certification" style="height: auto; width: 50%;"></img>
+</div>
 
+- **HTB Zephyr ProLab**: Completed 100% of Zephyr, an intermediate-level red team engagement simulating a real-world corporate Active Directory environment. Gained hands-on experience in AD enumeration, exploitation, post-exploitation, lateral movement, relay attacks, pivoting, SQL exploitation, and privilege escalation. The lab emphasized persistence, deep enumeration, and creative problem-solving across both Windows and Linux systems.
 
-### Servers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+<div align=center>
+<img src="https://behindsecurity.com/storage/zephyr.webp" alt="HTB Zephyr ProLab Certification" style="height: auto; width: 50%;"></img>
+</div>
 
+- 🎖 **eJPTv1 (eLearnSecurity Junior Penetration Tester)**: 95% pass rate on exam covering host, network & web app pentesting
 
-### Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<div align=center>
+<img src="https://behindsecurity.com/storage/ejpt.webp" alt="eJPTv1 Certification" style="height: auto; width: 50%;"></img>
+</div>
 
-
-### Code Editor
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
-
-### Operating System
-- Shoutout to [Whonix OS](https://www.whonix.org/)
-- Escape from the [botnet](https://www.microsoft.com/en-us/windows/?r=1)
-
-![Qubes OS](https://a11ybadges.com/badge?logo=qubesos)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-
-### Other
-[![Discord Bot Developer](https://img.shields.io/badge/Discord%20Bot%20Developer-blue)](https://discordpy.readthedocs.io/en/stable/)
-[![Exploit Developer](https://img.shields.io/badge/Exploit%20Developer-red)](https://vulners.com/exploitdb/EDB-ID:50963)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ## Projects
 
-<a href="https://infomundi.net/" target="_blank"><img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/infomundi-nobg.webp" alt="Infomundi" style="width: 50%; height: auto"></a><br>
+### Infomundi
 
-I'm CTO at [Infomundi](https://infomundi.net/), where I code full-stack and perform syadmin activities. The back-end was built using Python, while the front-end was made with Bootstrap and Vanilla JS/CSS. I actively maintain the site and plan to make it open-source in a near future.
+[Infomundi](https://infomundi.net) was created with the mission of simplifying access to reliable, detailed information about countries worldwide.
 
-<a href="https://behindsecurity.com/" target="_blank"><img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/behindsecurity-nobg.webp" alt="BehindSecurity" style="width: 50%; height: auto"></a><br>
+A from-scratch build:
 
-I write articles and publish CTF writeups on my [personal website](https://behindsecurity.com/).
-
+- **Backend**: Python + Flask + SQLAlchemy + MySQL
+- **Frontend**: Bootstrap 5 + vanilla JS/CSS
+- **Status**: Actively maintained, [open-source](https://github.com/Infomundi-Project/website)
 
 ## Education
 
 | Institution | Degree | Expected Graduation Date |
 | :--------: | :--------: | :--------:
-| [FIAP](https://www.linkedin.com/school/fiap/posts/) | Bachelor of Science, Cyber Defense | Feb, 2026 |
+| [FIAP](https://www.linkedin.com/school/fiap/posts/) | Technologist - Cyber Defense | Feb, 2026 |
 
-## Languages
-| Native | CEFR C2 | 
-| :--------: | :-----: |
-| Portuguese | English |
 
-## Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behindsecurity&show_icons=true)
+## Skills
 
-## Personal Touch
+- **Languages / Scripting**: Python · Bash · PowerShell  
+- **Web**: Flask · Jinja2 · JS/HTML/CSS · Bootstrap · WordPress  
+- **Databases**: PostgreSQL · MySQL · Redis  
+- **Servers**: Nginx · Apache · Gunicorn  
+- **Cloud & DevOps**: AWS · Docker · Git · Cloudflare  
+- **OS love**: Debian · Fedora · Ubuntu · Kali · Tails · Qubes · Whonix  
+- **Extras**: Discord bot dev · exploit writing ([EDB-ID 50963](https://vulners.com/exploitdb/EDB-ID:50963))
+
+
+## Off-the-Clock
 
 [![MyAnimeList](https://a11ybadges.com/badge?logo=myanimelist)](https://myanimelist.net/profile/the_hated_one)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/176254580-guilherme-alves)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/the_hated_one)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/the_hated_one/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindyk1)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindsecurity)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198316454564)
 
-## Let's Connect!
-Feel free to reach out for collaborations or just a friendly chat!
 
-| Mail | Matrix | Discord | LinkedIn |
-| :----------: | :----------: | :------: | :-----: |
-| gui(dot)alves(at)behindsecurity(dot)com ([pgp key](https://behindsecurity.com/wp-content/uploads/2025/03/Guilherme-Alves-gui.alves@behindsecurity.com-0x0EDE23B4DB2B1E70-public.asc)) | @behindsecurity:matrix.org | @behindsecurity | [Guilherme Alves](https://www.linkedin.com/in/guilherme-alves-cybersecurity/) |
+## Languages
+
+| CEFR C2 | Native | 
+| :--------: | :-----: |
+| English | Portuguese |
+
+
+## Let's Connect!
+
+- **Mail**: `gui(dot)alves(at)behindsecurity(dot)com` ([PGP](https://behindsecurity.com/storage/pubkey.asc))
+- **Discord**: `behindsecurity`
+- **Matrix**: `behindsecurity:matrix.org`
+
+*Always up for collabs, code reviews, or a quick security chat—ping me anytime!*
