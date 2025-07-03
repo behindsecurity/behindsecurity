@@ -1,6 +1,6 @@
-My name's Guilherme, and I'm a pentester. My main focus is on breaking stuff, but I also build web applications, tools, and, sometimes, discord bots and other things too—because you need to know how something works to know how to break it.
+Hi there. My name's Guilherme, and I'm a pentester. My main focus is on breaking stuff, but I also build [web applications](https://github.com/Infomundi-Project/website), [tools](https://github.com/behindsecurity/convert-to-webp), and, sometimes, [discord bots](https://github.com/behindsecurity/bingobot) and [other things](https://github.com/behindsecurity/phpipam-rce-authenticated) too—because you need to know how something works to know how to break it.
 
-![Views](https://komarev.com/ghpvc/?username=behindsecurity&color=blue)
+![Views](https://komarev.com/ghpvc/?username=behindsecurity&color=red)
 
 I also love sharing knowledge through [articles](https://behindsecurity.com/categories/articles/) and [writeups](https://behindsecurity.com/categories/writeups/).
 
@@ -17,30 +17,34 @@ I also love sharing knowledge through [articles](https://behindsecurity.com/cate
 
 ### Highlights
 
-- 🎖 **HTB CPTS (Certified Penetration Testing Specialist)**: Completed 100% of the practical lab that simulates a real world engagement (internal network with more than 5 machines), plus a comprehensive 215‑page pentest report, and thus obtaining a passing score on the CPTS exam
+- 🎖 **HTB CPTS (Certified Penetration Testing Specialist)**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/htb-cpts.webp" alt="HTB CPTS Certification" style="height: auto; width: 50%;"></img>
+<img src="https://behindsecurity.com/storage/htb-cpts.webp" alt="HTB CPTS Certification" style="height: auto; width: 60%;"></img>
 </div>
 
-
-- **HTB Dante ProLab**: Completed 100% of Dante, a beginner-friendly penetration testing lab simulating real-world environments with both Linux and Windows systems. Developed hands-on skills in enumeration, exploit development (including buffer overflows), web application attacks, privilege escalation, and lateral movement. The lab emphasized persistence, situational awareness, and practical use of tools like Metasploit in network penetration testing workflows.
-
+- 🎖 **THM PT1 (Junior Penetration Tester)**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/dante.webp" alt="HTB Dante ProLab Certification" style="height: auto; width: 50%;"></img>
+<img src="https://behindsecurity.com/storage/certs/thm-pt1.webp" alt="TryHackMe PT1 Certification" style="height: auto; width: 60%;"></img>
 </div>
 
-- **HTB Zephyr ProLab**: Completed 100% of Zephyr, an intermediate-level red team engagement simulating a real-world corporate Active Directory environment. Gained hands-on experience in AD enumeration, exploitation, post-exploitation, lateral movement, relay attacks, pivoting, SQL exploitation, and privilege escalation. The lab emphasized persistence, deep enumeration, and creative problem-solving across both Windows and Linux systems.
+- **HTB Dante ProLab**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/zephyr.webp" alt="HTB Zephyr ProLab Certification" style="height: auto; width: 50%;"></img>
+<img src="https://behindsecurity.com/storage/dante.webp" alt="HTB Dante ProLab Certification" style="height: auto; width: 60%;"></img>
 </div>
 
-- 🎖 **eJPTv1 (eLearnSecurity Junior Penetration Tester)**: 95% pass rate on exam covering host, network & web app pentesting
+- **HTB Zephyr ProLab**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/ejpt.webp" alt="eJPTv1 Certification" style="height: auto; width: 50%;"></img>
+<img src="https://behindsecurity.com/storage/zephyr.webp" alt="HTB Zephyr ProLab Certification" style="height: auto; width: 60%;"></img>
+</div>
+
+- 🎖 **eJPTv1 (eLearnSecurity Junior Penetration Tester)**
+
+<div align=center>
+<img src="https://behindsecurity.com/storage/ejpt.webp" alt="eJPTv1 Certification" style="height: auto; width: 60%;"></img>
 </div>
 
 
