@@ -20,31 +20,31 @@ I also love sharing knowledge through [articles](https://behindsecurity.com/cate
 - 🎖 **HTB CPTS (Certified Penetration Testing Specialist)**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/htb-cpts.webp" alt="HTB CPTS Certification" style="height: auto; width: 60%;"></img>
+<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/htb-cpts.webp" alt="HTB CPTS Certification" style="height: auto; width: 60%;"></img>
 </div>
 
 - 🎖 **THM PT1 (Junior Penetration Tester)**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/certs/thm-pt1.webp" alt="TryHackMe PT1 Certification" style="height: auto; width: 60%;"></img>
+<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/pt1.webp" alt="TryHackMe PT1 Certification" style="height: auto; width: 60%;"></img>
 </div>
 
 - **HTB Dante ProLab**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/dante.webp" alt="HTB Dante ProLab Certification" style="height: auto; width: 60%;"></img>
+<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/Dante.jpg" alt="HTB Dante ProLab Certification" style="height: auto; width: 60%;"></img>
 </div>
 
 - **HTB Zephyr ProLab**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/zephyr.webp" alt="HTB Zephyr ProLab Certification" style="height: auto; width: 60%;"></img>
+<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/Zephyr.jpg" alt="HTB Zephyr ProLab Certification" style="height: auto; width: 60%;"></img>
 </div>
 
 - 🎖 **eJPTv1 (eLearnSecurity Junior Penetration Tester)**
 
 <div align=center>
-<img src="https://behindsecurity.com/storage/ejpt.webp" alt="eJPTv1 Certification" style="height: auto; width: 60%;"></img>
+<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/eJPT-cert-min.png" alt="eJPTv1 Certification" style="height: auto; width: 60%;"></img>
 </div>
 
 
