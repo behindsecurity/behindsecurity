@@ -1,56 +1,38 @@
-Hi there. My name's Guilherme, and I'm a pentester. My main focus is on breaking stuff, but I also build [web applications](https://github.com/Infomundi-Project/website), [tools](https://github.com/behindsecurity/convert-to-webp), and, sometimes, [discord bots](https://github.com/behindsecurity/bingobot) and [other things](https://github.com/behindsecurity/phpipam-rce-authenticated) too—because you need to know how something works to know how to break it.
+Hi there. My name's Guilherme, and I'm a pentester. My main focus is on breaking stuff, but I also build [web applications](https://github.com/Infomundi-Project/website), [tools](https://github.com/behindsecurity/convert-to-webp), and, sometimes, [discord bots](https://github.com/behindsecurity/bingobot) and [other things](https://github.com/behindsecurity/phpipam-rce-authenticated) too, because you need to know how something works to know how to break it.
 
 ![Views](https://komarev.com/ghpvc/?username=behindsecurity&color=red)
 
-I also love sharing knowledge through [articles](https://behindsecurity.com/categories/articles/) and [writeups](https://behindsecurity.com/categories/writeups/).
+I also like sharing knowledge through [articles](https://behindsecurity.com/categories/articles/) and [writeups](https://behindsecurity.com/categories/writeups/).
 
+## Professional Certifications
 
-## CTFs & Certifications
+| Certification | Issuer | Credential |
+| :------------ | :----- | :--------- |
+| **Offensive Security Certified Professional (OSCP)** | OffSec | In Progress |
+| **Certified Penetration Testing Specialist (HTB CPTS)** | Hack The Box | [View Credential](https://behindsecurity.com/cpts) |
+| **Junior Penetration Tester (THM PT1)** | TryHackMe | [View Credential](https://behindsecurity.com/pt1) |
+| **Junior Penetration Tester (eJPT)** | INE Security | [View Credential](https://behindsecurity.com/ejpt) |
+| **CompTIA Security+** | CompTIA | [View Credential](https://behindsecurity.com/sec+) |
+| **Google Cybersecurity Professional Certificate** | Google | [View Credential](https://behindsecurity.com/google) |
 
-> "Practice like you're in prod."
-> CTFs are my lab; certs prove the habits stick.
+### HackTheBox ProLabs
+
+| ProLab | Certificate Number | Status |
+| :----- | :---------------- | :----- |
+| **Zephyr** | HTBCERT-768675B159 | Completed |
+| **Dante** | HTBCERT-FFA98CDC18 | Completed |
+
+_All prolabs credentials verifiable at [HackTheBox Certificates](https://www.hackthebox.com/certificates)_
+
+## Platforms
 
 | TryHackMe | HackTheBox | 
 | :----: | :----: |
 | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/behindsecurity.png)](https://tryhackme.com/p/behindsecurity) | [![behindsecurity](https://www.hackthebox.eu/badge/image/600542)](https://app.hackthebox.com/profile/600542) |
 
-
-### Highlights
-
-- 🎖 **HTB CPTS (Certified Penetration Testing Specialist)**
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/htb-cpts.webp" alt="HTB CPTS Certification" style="height: auto; width: 60%;"></img>
-</div>
-
-- 🎖 **THM PT1 (Junior Penetration Tester)**
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/pt1.webp" alt="TryHackMe PT1 Certification" style="height: auto; width: 60%;"></img>
-</div>
-
-- **HTB Dante ProLab**
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/Dante.jpg" alt="HTB Dante ProLab Certification" style="height: auto; width: 60%;"></img>
-</div>
-
-- **HTB Zephyr ProLab**
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/Zephyr.jpg" alt="HTB Zephyr ProLab Certification" style="height: auto; width: 60%;"></img>
-</div>
-
-- 🎖 **eJPTv1 (eLearnSecurity Junior Penetration Tester)**
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/behindsecurity/behindsecurity/refs/heads/main/images/eJPT-cert-min.png" alt="eJPTv1 Certification" style="height: auto; width: 60%;"></img>
-</div>
-
-
 ## Projects
 
-### Infomundi
+### Infomundi (Sep. 2023 - Sep. 2025)
 
 [Infomundi](https://infomundi.net) was created with the mission of simplifying access to reliable, detailed information about countries worldwide.
 
@@ -58,25 +40,13 @@ A from-scratch build:
 
 - **Backend**: Python + Flask + SQLAlchemy + MySQL
 - **Frontend**: Bootstrap 5 + vanilla JS/CSS
-- **Status**: Actively maintained, [open-source](https://github.com/Infomundi-Project/website)
+- **Status**: [Open Source](https://github.com/Infomundi-Project/website)
 
 ## Education
 
 | Institution | Degree | Expected Graduation Date |
 | :--------: | :--------: | :--------:
 | [FIAP](https://www.linkedin.com/school/fiap/posts/) | Technologist - Cyber Defense | Feb, 2026 |
-
-
-## Skills
-
-- **Languages / Scripting**: Python · Bash · PowerShell  
-- **Web**: Flask · Jinja2 · JS/HTML/CSS · Bootstrap · WordPress  
-- **Databases**: PostgreSQL · MySQL · Redis  
-- **Servers**: Nginx · Apache · Gunicorn  
-- **Cloud & DevOps**: AWS · Docker · Git · Cloudflare  
-- **OS love**: Debian · Fedora · Ubuntu · Kali · Tails · Qubes · Whonix  
-- **Extras**: Discord bot dev · exploit writing ([EDB-ID 50963](https://vulners.com/exploitdb/EDB-ID:50963))
-
 
 ## Off-the-Clock
 
@@ -87,13 +57,11 @@ A from-scratch build:
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindsecurity)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198316454564)
 
-
 ## Languages
 
 | CEFR C2 | Native | 
 | :--------: | :-----: |
 | English | Portuguese |
-
 
 ## Let's Connect!
 
