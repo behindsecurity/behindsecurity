@@ -48,15 +48,6 @@ A from-scratch build:
 | :--------: | :--------: | :--------:
 | [FIAP](https://www.linkedin.com/school/fiap/posts/) | Technologist - Cyber Defense | Feb, 2026 |
 
-## Off-the-Clock
-
-[![MyAnimeList](https://a11ybadges.com/badge?logo=myanimelist)](https://myanimelist.net/profile/the_hated_one)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/176254580-guilherme-alves)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/the_hated_one)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white)](https://letterboxd.com/the_hated_one/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/behindsecurity)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198316454564)
-
 ## Languages
 
 | CEFR C2 | Native | 
