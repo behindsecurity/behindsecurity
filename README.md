@@ -54,10 +54,4 @@ A from-scratch build:
 | :--------: | :-----: |
 | English | Portuguese |
 
-## Let's Connect!
-
-- **Mail**: `gui(dot)alves(at)behindsecurity(dot)com` ([PGP](https://behindsecurity.com/storage/pubkey.asc))
-- **Discord**: `behindsecurity`
-- **Matrix**: `behindsecurity:matrix.org`
-
 *Always up for collabs, code reviews, or a quick security chat—ping me anytime!*
