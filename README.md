@@ -1,16 +1,15 @@
-Hi there. My name's Guilherme, and I'm a pentester. My main focus is on breaking stuff, but I also build [web applications](https://github.com/Infomundi-Project/website), [tools](https://github.com/behindsecurity/convert-to-webp), and, sometimes, [discord bots](https://github.com/behindsecurity/bingobot) and [other things](https://github.com/behindsecurity/phpipam-rce-authenticated) too, because you need to know how something works to know how to break it.
+Hi there. My name is Guilherme Alves, and I'm an Offensive Security professional specializing in penetration testing and vulnerability research, with over three years of hands-on experience exploiting complex systems across web applications, Active Directory environments, and network infrastructure. Based in Brazil (but I'm also an EU citizen), I hold multiple industry certifications including HTB CPTS, THM PT1, eJPT and CompTIA Security+, and have successfully compromised over 250 vulnerable systems (Hack The Box machines) throughout my career. I'm also currently pursuing the Offensive Security Certified Professional (OSCP) certification.
 
 ![Views](https://komarev.com/ghpvc/?username=behindsecurity&color=red)
-
-I also like sharing knowledge through [articles](https://behindsecurity.com/categories/articles/) and [writeups](https://behindsecurity.com/categories/writeups/).
 
 ## Professional Certifications
 
 | Certification | Issuer | Credential |
 | :------------ | :----- | :--------- |
+| **Certified Red Team Operator (CRTO)** | Zero-Point Security | Planned 2026.1 |
 | **Offensive Security Certified Professional (OSCP)** | OffSec | In Progress |
-| **Certified Penetration Testing Specialist (HTB CPTS)** | Hack The Box | [View Credential](https://behindsecurity.com/cpts) |
-| **Junior Penetration Tester (THM PT1)** | TryHackMe | [View Credential](https://behindsecurity.com/pt1) |
+| **HTB Certified Penetration Testing Specialist (CPTS)** | Hack The Box | [View Credential](https://behindsecurity.com/cpts) |
+| **THM Junior Penetration Tester (PT1)** | TryHackMe | [View Credential](https://behindsecurity.com/pt1) |
 | **Junior Penetration Tester (eJPT)** | INE Security | [View Credential](https://behindsecurity.com/ejpt) |
 | **CompTIA Security+** | CompTIA | [View Credential](https://behindsecurity.com/sec+) |
 | **Google Cybersecurity Professional Certificate** | Google | [View Credential](https://behindsecurity.com/google) |
@@ -32,7 +31,18 @@ _All prolabs credentials verifiable at [HackTheBox Certificates](https://www.hac
 
 ## Projects
 
-### Infomundi (Sep. 2023 - Sep. 2025)
+### Co-Founder @ hackersOnSteroids (Dec. 2024 - Now)
+
+[hackersOnSteroids](https://hackersonsteroids.org/) is brazil's #1 team on hack the box (htb). international crew of hackers, pentesters, software engineers, malware/exploit writers, infra people, mobile sec folks, and some absolute HTB tryhards. based in brazil but we've got people from india, germany, usa, puerto rico, pakistan... basically everywhere.
+
+what we do:
+
+- compete hard // every saturday we're grinding the HTB season. many of us cleared all active boxes already
+- share knowledge // internal writeups for active machines/challenges and other events outside hack the box. we also mentor newer hackers
+- infra // blog, internal collab platform, pentest report system, other stuff we coded ourselves
+- partner up // we work with other like-minded teams like OSI and other crews globally
+
+### Co-Founder @ Infomundi (Sep. 2023 - Sep. 2025)
 
 [Infomundi](https://infomundi.net) was created with the mission of simplifying access to reliable, detailed information about countries worldwide.
 
@@ -54,4 +64,4 @@ A from-scratch build:
 | :--------: | :-----: |
 | English | Portuguese |
 
-*Always up for collabs, code reviews, or a quick security chat—ping me anytime!*
+*Always up for collabs, code reviews, or a quick security chat.*
